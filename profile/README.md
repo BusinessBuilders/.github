@@ -12,7 +12,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-> Running DeepSeek, Qwen, and GLM-4 on an 8× RTX 3090 workstation. Building agents that run themselves. Building a robot. Doing this in Massachusetts.
+> Running DeepSeek, Qwen, and GLM-4 on an 8× RTX 3090 workstation. Building agents that run themselves. Building a robot.
 
 ## Current Projects
 
