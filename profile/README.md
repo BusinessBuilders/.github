@@ -16,7 +16,7 @@
 
 ## Current Projects
 
-- 🤖 **[eve.center](https://github.com/BusinessBuilders/eve-for-hire)** — AI web agency run by a single autonomous agent. Customer chats, Eve qualifies, takes payment, registers a domain, generates and deploys a site. No human in the loop.
+- 🤖 **[eve.center](https://eve.center)** — AI web agency run by a single autonomous agent. Customer chats, Eve qualifies, takes payment, registers a domain, generates and deploys a site. No human in the loop. ([source](https://github.com/BusinessBuilders/eve-for-hire))
 - 📬 **[BB-Post](https://github.com/BusinessBuilders/BB-Post)** — Open-source AI social media scheduling platform. Full monorepo: NestJS + Next.js + LangGraph + CopilotKit.
 - 🎬 **[remotion-fireship](https://github.com/BusinessBuilders/remotion-fireship)** — Full remote AI video pipeline. Remotion + Chatterbox TTS + Flux AI image generation. Drop a topic, get a produced video.
 - 💹 **[BBtrade](https://github.com/BusinessBuilders/BBtrade)** — Open-source high-frequency crypto trading bots in Python.
