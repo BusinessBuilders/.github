@@ -20,7 +20,7 @@
 - 📬 **[BB-Post](https://github.com/BusinessBuilders/BB-Post)** — Open-source AI social media scheduling platform. Full monorepo: NestJS + Next.js + LangGraph + CopilotKit.
 - 🎬 **[remotion-fireship](https://github.com/BusinessBuilders/remotion-fireship)** — Full remote AI video pipeline. Remotion + Chatterbox TTS + Flux AI image generation. Drop a topic, get a produced video.
 - 💹 **[BBtrade](https://github.com/BusinessBuilders/BBtrade)** — Open-source high-frequency crypto trading bots in Python.
-- 🎬 **[davinci-resolve-mcp](https://github.com/BusinessBuilders/davinci-resolve-mcp)** — MCP server integration for DaVinci Resolve. Control your edit from an AI agent.
+- 🧰 **[tool-advisor](https://github.com/BusinessBuilders/tool-advisor)** — Claude Code plugin that analyzes your project and recommends the right tools. Includes an auto-optimize workflow and a stop hook that actually works.
 
 ## What I'm Building With
 
