@@ -1,6 +1,6 @@
 # Hi, I'm Will 👋
 
-📍 **Massachusetts** | 🦾 **Web dev + AI automation** | 🤖 **Local inference. No cloud. No excuses.**
+🦾 **Web dev + AI automation** | 🤖 **Local inference. No cloud. No excuses.**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -32,7 +32,7 @@ Infra:  Docker Compose · Caddy · PM2 · GitHub Actions
 
 ## Agency Work
 
-**[Business Builders](https://business-builder.online)** — web development and AI automation for small businesses in Massachusetts. We build fast, we build to last.
+**[Business Builders](https://business-builder.online)** — web development and AI automation for small businesses. We build fast, we build to last.
 
 ## Connect
 
